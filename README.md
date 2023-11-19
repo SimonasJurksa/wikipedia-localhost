@@ -16,8 +16,8 @@ Before you begin, ensure you have the following installed on your system:
 1. **Clone the Repository**
 
     ```
-    git clone [Your Repository URL]
-    cd [Your Repository Name]
+    git clone [[Your Repository URL]](https://github.com/SimonasJurksa/wikipedia-localhost.git)
+    cd wikipedia-localhost
     ```
 
 2. **Run the Makefile**

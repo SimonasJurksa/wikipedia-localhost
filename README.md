@@ -16,7 +16,7 @@ Before you begin, ensure you have the following installed on your system:
 1. **Clone the Repository**
 
     ```
-    git clone [[Your Repository URL]](https://github.com/SimonasJurksa/wikipedia-localhost.git)
+    git clone https://github.com/SimonasJurksa/wikipedia-localhost.git
     cd wikipedia-localhost
     ```
 

@@ -1,0 +1,7 @@
+.idea
+dumps
+latest-wiki-dump.xml
+latest-wiki-dump.xml.bz2
+docker-compose.yml
+LocalSettings.php
+html
